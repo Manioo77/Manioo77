@@ -59,22 +59,6 @@ I have a passion for crafting websites, and being a frontend developer allows me
             </li>
         </ul>
     </li>
-     <br/>
-    <li>
-        <b>Socials</b>
-        <ul>
-            <li>
-            <a href="https://www.linkedin.com/in/marek-manka/">LinkedIn</a>
-            </li>
-            <li>
-            <a href="https://www.facebook.com/marek.manka.9">Facebook</a>
-            </li>
-            </li>
-            <li>
-            <a href="https://github.com/Manioo77">Github</a>
-            </li>
-        </ul>
-    </li>
     <br/>
     <li>
       <b>Technologies</b>
