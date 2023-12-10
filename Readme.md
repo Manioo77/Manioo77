@@ -9,7 +9,7 @@ I have a passion for crafting websites, and being a frontend developer allows me
 
 <ul> 
      <li>
-        <b>WORK EXPERIENCE</b>
+        <b>Work experience</b>
         <ul>
             <li>
              JUNIOR FRONT-END DEVELOPER (2022.12 - present)
