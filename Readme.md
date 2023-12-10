@@ -52,10 +52,10 @@ I have a passion for crafting websites, and being a frontend developer allows me
         <b>Education 🎓</b>
         <ul>
             <li>
-                Bachelor of Computer Science (2018 - 2022) - <a href="https://wsb.edu.pl/cieszyn">Academy WSB Cieszyn</a>
+                Master of Computer Science (2022 - present) - <a href="https://us.edu.pl">UŚ Katowice</a>
             </li>
             <li>
-                Master of Computer Science (2022 - present) - <a href="https://us.edu.pl">UŚ Katowice</a>
+                Bachelor of Computer Science (2018 - 2022) - <a href="https://wsb.edu.pl/cieszyn">Academy WSB Cieszyn</a>
             </li>
         </ul>
     </li>
