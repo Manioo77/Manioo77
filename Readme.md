@@ -12,11 +12,11 @@ I have a passion for crafting websites, and being a frontend developer allows me
         <b>Work experience</b>
         <ul>
             <li>
-             JUNIOR FRONT-END DEVELOPER (2022.12 - present)
+             Junior front-end developer (2022.12 - present)
             </li>
             <li>   
-            CX & MARKETING
-            AUTOMATION ENGINEER (2022.04 - 2022.11)
+            Cx & marketing
+            automation engineer (2022.04 - 2022.11)
             </li>
             <li>
             Computer hardware service technician (2021.10 - 2021.12)
