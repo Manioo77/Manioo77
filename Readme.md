@@ -1,11 +1,6 @@
 # Hello !
 
-<br/>
-I'm <b>Marek Mańka</b> 👨🏻‍💻 <br/> 
-Currently working remotely as a Junior Frontend Developer at Salesmanago.  <br/>
-I reside in Silesia, near Cieszyn. <br/>
-I have a passion for crafting websites, and being a frontend developer allows me to constantly engage in exciting challenges that bring me satisfaction. <br/>
-<br/>
+<br/> I'm <b>Marek Mańka</b> 👨🏻‍💻<br/> I'm currently working remotely as a .NET Developer at KTSoft.<br/> I live in Silesia, near Cieszyn.<br/> I'm passionate about crafting websites – working as a frontend developer allows me to take on exciting challenges that bring me great satisfaction and foster my professional growth.<br/><br/>
 
 <ul> 
     <li>
@@ -24,14 +19,22 @@ I have a passion for crafting websites, and being a frontend developer allows me
         <b>Work experience</b>
         <ul>
             <li>
-             Junior front-end developer (2022.12 - present)
-            </li>
-            <li>   
-            Cx & marketing
-            automation engineer (2022.04 - 2022.11)
+                .NET Developer (2024.06 - present)
             </li>
             <li>
-            Computer hardware service technician (2021.10 - 2021.12)
+                Senior Implementation Specialist (2024.01 - present)
+            </li>
+            <li>
+                Implementation Specialist (2023.01 - 2024.01)
+            </li>
+            <li>
+                Junior Front-end Developer (2022.08 - 2023.01)
+            </li>
+            <li>   
+                CX & Marketing Automation Engineer (2022.04 - 2022.11)
+            </li>
+            <li>
+                Computer hardware service technician (2021.10 - 2021.12)
             </li>
             <li>
             Quality control lab technician (2018.06 - 2021.07)
